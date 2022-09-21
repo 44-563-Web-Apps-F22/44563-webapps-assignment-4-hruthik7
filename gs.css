@@ -33,18 +33,7 @@
 .WILFRED {
     color: darkturquoise;
 }
-.CROWD {
-    color: ivory;
-}
-.YEOMEN {
-    color: lightblue;
-}
-.2ND YEOMAN {
-    color: lime;
-}
-.DAME {
-    color: powderblue;
-} 
+
 table {
     border: 5px solid black;
     color: black;
