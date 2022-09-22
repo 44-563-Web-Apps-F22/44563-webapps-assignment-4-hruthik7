@@ -34,7 +34,9 @@
 .WILFRED {
     color: darkturquoise;
 }
-
+.PHOEBE:hover,.WILFRED:hover{
+    text-shadow: 1px 1px 4px lightblue;
+}
 table {
     border: 5px solid black;
     color: black;
